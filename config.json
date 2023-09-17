@@ -1,42 +1,170 @@
 {
-  "Enabled": true,
-  "Title": "Super Bun World",
-  "Burrows": [
-    {
-      "Directory": "W",
-      "Name": "Super Bun World:West",
-      "Indicator": "SBW-W",
-      "Style": "Hay",
-      "HasSurfaceEntry": true,
-      "UpperBunnyCount": 1,
-      "TempleBunnyCount": 0,
-      "HellBunnyCount": 0,
-      "Depth": 10,
-      "Links": {
-        "Right": "Super Bun World:Center"
-      }
-    },
-    {
-      "Directory": "C",
-      "Name": "Super Bun World:Center",
-      "Indicator": "SBW-C",
-      "Style": "Sunken",
-      "HasSurfaceEntry": true,
-      "UpperBunnyCount": 1,
-      "TempleBunnyCount": 0,
-      "HellBunnyCount": 0,
-      "Depth": 10,
-      "Links": {
-        "Left": "Super Bun World:West",
-      }
-    }
-  ],
-  "SurfaceEntries": [
-    {
-      "Grid": {
-        "W": "Super Bun World:West",
-        "C": "Super Bun World:Center"
-      }
-    }
-  ]
+    "Enabled": true,
+    "Title": "Super Bun World",
+    "BunEditor_Prefix": "SBW-",
+    "BunEditor_Suffix": "",
+    "Burrows": [
+        {
+            "Directory": "NW",
+            "Name": "Super Bun World: Northwest",
+            "Indicator": "SBW-NW",
+            "Style": "Pink",
+            "HasSurfaceEntry": false,
+            "UpperBunnyCount": 0,
+            "TempleBunnyCount": 0,
+            "HellBunnyCount": 0,
+            "Depth": 1,
+            "Links": {
+                "Left": "",
+                "Up": "",
+                "Right": "Super Bun World: North",
+                "Down": "Super Bun World: West"
+            },
+            "ElevatorDepths": []
+        },
+        {
+            "Directory": "N",
+            "Name": "Super Bun World: North",
+            "Indicator": "SBW-N",
+            "Style": "Pink",
+            "HasSurfaceEntry": false,
+            "UpperBunnyCount": 1,
+            "TempleBunnyCount": 0,
+            "HellBunnyCount": 0,
+            "Depth": 1,
+            "Links": {
+                "Left": "Super Bun World: Northwest",
+                "Up": "",
+                "Right": "Super Bun World: Northeast",
+                "Down": "Super Bun World: Center"
+            },
+            "ElevatorDepths": []
+        },
+        {
+            "Directory": "NE",
+            "Name": "Super Bun World: Northeast",
+            "Indicator": "SBW-NE",
+            "Style": "Pink",
+            "HasSurfaceEntry": false,
+            "UpperBunnyCount": 0,
+            "TempleBunnyCount": 0,
+            "HellBunnyCount": 0,
+            "Depth": 2,
+            "Links": {
+                "Left": "Super Bun World: North",
+                "Up": "",
+                "Right": "",
+                "Down": "Super Bun World: East"
+            },
+            "ElevatorDepths": []
+        },
+        {
+            "Directory": "W",
+            "Name": "Super Bun World: West",
+            "Indicator": "SBW-W",
+            "Style": "Pink",
+            "HasSurfaceEntry": true,
+            "UpperBunnyCount": 0,
+            "TempleBunnyCount": 0,
+            "HellBunnyCount": 0,
+            "Depth": 1,
+            "Links": {
+                "Left": "",
+                "Up": "Super Bun World: Northwest",
+                "Right": "Super Bun World: Center",
+                "Down": "Super Bun World: Southwest"
+            },
+            "ElevatorDepths": []
+        },
+        {
+            "Directory": "C",
+            "Name": "Super Bun World: Center",
+            "Indicator": "SBW-C",
+            "Style": "Pink",
+            "HasSurfaceEntry": true,
+            "UpperBunnyCount": 1,
+            "TempleBunnyCount": 0,
+            "HellBunnyCount": 0,
+            "Depth": 2,
+            "Links": {
+                "Left": "Super Bun World: West",
+                "Up": "Super Bun World: North",
+                "Right": "Super Bun World: East",
+                "Down": "Super Bun World: South"
+            },
+            "ElevatorDepths": []
+        },
+        {
+            "Directory": "E",
+            "Name": "Super Bun World: East",
+            "Indicator": "SBW-E",
+            "Style": "Pink",
+            "HasSurfaceEntry": true,
+            "UpperBunnyCount": 0,
+            "TempleBunnyCount": 0,
+            "HellBunnyCount": 0,
+            "Depth": 1,
+            "Links": {
+                "Left": "Super Bun World: Center",
+                "Up": "Super Bun World: Northeast",
+                "Right": "",
+                "Down": "Super Bun World: Southeast"
+            },
+            "ElevatorDepths": []
+        },
+        {
+            "Directory": "SW",
+            "Name": "Super Bun World: Southwest",
+            "Indicator": "SBW-SW",
+            "Style": "Pink",
+            "HasSurfaceEntry": false,
+            "UpperBunnyCount": 1,
+            "TempleBunnyCount": 0,
+            "HellBunnyCount": 0,
+            "Depth": 2,
+            "Links": {
+                "Left": "",
+                "Up": "Super Bun World: West",
+                "Right": "Super Bun World: South",
+                "Down": ""
+            },
+            "ElevatorDepths": []
+        },
+        {
+            "Directory": "S",
+            "Name": "Super Bun World: South",
+            "Indicator": "SBW-S",
+            "Style": "Pink",
+            "HasSurfaceEntry": false,
+            "UpperBunnyCount": 0,
+            "TempleBunnyCount": 0,
+            "HellBunnyCount": 0,
+            "Depth": 1,
+            "Links": {
+                "Left": "Super Bun World: Southwest",
+                "Up": "Super Bun World: Center",
+                "Right": "Super Bun World: Southeast",
+                "Down": ""
+            },
+            "ElevatorDepths": []
+        },
+        {
+            "Directory": "SE",
+            "Name": "Super Bun World: Southeast",
+            "Indicator": "SBW-SE",
+            "Style": "Pink",
+            "HasSurfaceEntry": false,
+            "UpperBunnyCount": 0,
+            "TempleBunnyCount": 0,
+            "HellBunnyCount": 0,
+            "Depth": 1,
+            "Links": {
+                "Left": "Super Bun World: South",
+                "Up": "Super Bun World: East",
+                "Right": "",
+                "Down": ""
+            },
+            "ElevatorDepths": []
+        }
+    ]
 }

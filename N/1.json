@@ -1,10 +1,10 @@
 {
-    "Name": "",
+    "Name": "Flutter",
     "DisableCaching": true,
     "LiveReloading": true,
     "Tools":
     {
-        "Traps": 1,
+        "Traps": 0,
         "Pickaxes": 1,
         "Carrots": 0,
         "Shovels": 0

@@ -1,11 +1,14 @@
 {
     "Name": "Hay Bales",
     "DisableCaching": true,
-    "Tools": 
+    "LiveReloading": true,
+    "Tools":
     {
         "Traps": 1,
-        "Pickaxes": 1
+        "Pickaxes": 1,
+        "Carrots": 0,
+        "Shovels": 0
     },
-    "IsTemple": false,
+    "IsVoid": false,
     "IsHell": false
 }
