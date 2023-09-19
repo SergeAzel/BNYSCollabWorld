@@ -1,8 +1,8 @@
 W{RD},W{LR},W{LR},W{LR},W{LR},W{LR},W{LR},W{LR},W{LR},W{LR},W{LR},W{LRD},W{LD},W,W
-W{URD},T,T,T,T,W{LR},W{LR},W{LR},W{LR},T,T,T,W{LUD},W,W
-W{UD},T,W,W,T,W,W,T,T,T,T,T,T,W,W
-W{UD},T,T,W{LR},T,W{LR},T,T,T,T,T,T,T,T,W
-W{UD},T,W,W,W{UD},W,T,S,T,B,T,T,T,T,W
+W{URD},T,T,T,T,T,W{LR},W{LR},W{LR},T,T,T,W{LUD},W,W
+W{UD},T,W,W,W,T,W,W,T,T,T,T,T,W,W
+W{UD},T,T,W{LR},W{LR},T,W{LR},W{LR},T,T,T,T,T,T,W
+W{UD},T,W,W,W,W,W,S,T,B,T,T,T,T,W
 W{URD},T,T,T,T,T,T,T,T,T,T,T,W,T,W
 W{UR},W{LRD},T,T,T,T,T,W{LR},W{LUR},W{LR},T,E,T,T,W
 W,W{UR},W{LR},W{LR},T,T,W,W,T,W,T,T,T,T,W
