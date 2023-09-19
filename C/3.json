@@ -1,12 +1,12 @@
 {
-    "Name": "Low Security",
+    "Name": "swddadadadadada",
     "DisableCaching": true,
     "LiveReloading": true,
     "Tools":
     {
-        "Traps": 0,
+        "Traps": 1,
         "Pickaxes": 0,
-        "Carrots": 3,
+        "Carrots": 1,
         "Shovels": 0
     },
     "IsVoid": false,

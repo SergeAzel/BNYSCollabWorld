@@ -1,12 +1,12 @@
 {
-    "Name": "Low Security",
+    "Name": "Mask",
     "DisableCaching": true,
     "LiveReloading": true,
     "Tools":
     {
         "Traps": 0,
-        "Pickaxes": 0,
-        "Carrots": 3,
+        "Pickaxes": 1,
+        "Carrots": 0,
         "Shovels": 0
     },
     "IsVoid": false,
