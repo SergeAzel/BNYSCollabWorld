@@ -1,0 +1,14 @@
+{
+    "Name": "",
+    "DisableCaching": true,
+    "LiveReloading": true,
+    "Tools":
+    {
+        "Traps": 0,
+        "Pickaxes": 0,
+        "Carrots": 1,
+        "Shovels": 1
+    },
+    "IsVoid": false,
+    "IsHell": false
+}

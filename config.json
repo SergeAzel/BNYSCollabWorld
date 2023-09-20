@@ -118,10 +118,10 @@
             "Indicator": "SBW-SW",
             "Style": "Pink",
             "HasSurfaceEntry": false,
-            "UpperBunnyCount": 1,
+            "UpperBunnyCount": 3,
             "TempleBunnyCount": 0,
             "HellBunnyCount": 0,
-            "Depth": 2,
+            "Depth": 5,
             "Links": {
                 "Left": "",
                 "Up": "Super Bun World: West",

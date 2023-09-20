@@ -1,7 +1,7 @@
 W,W,W,W,W,W,W,W,W,W,W,W,W,W,W
 W,W,T{C},T{C},T{C},T{C},T{C},T{C},T{C},T{C},T{C},T{C},T{C},W,W
 W,W,W{U},W{UD},W{UD},W{UD},W{UD},W{UD},W{UD},W{UD},W{UD},W{UD},W{U},W,W
-W,W,T,T,T,T,T,T,T,T,T,T,W,W,W
+W,E,T,T,T,T,T,T,T,T,T,T,W,W,W
 W,W,T,T,R,T,T,T,T,T,S,T,T,W{LD},W
 W,W,T,T,T{K},T,T,R,T,T,T,T,T,W{UD},W
 W,W,T,T,T{K},T,T,T{K},T,T,R,T,T,W{LU},W
