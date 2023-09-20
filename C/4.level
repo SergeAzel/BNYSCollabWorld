@@ -3,7 +3,7 @@ W,W,W,W,R,R,T,T,W,T,T,T,T,T,W{UD}
 R,R,R,R,R,T,T,T,T,T,T,T,T,W{LD},W{UD}
 T{K},T,T,T,T,T,T,T,T,T,T,T,T,W{UR},W{LUD}
 T{K},T,T,T,T,T,T,R,R,T,T,T,W{UR},W{LR},W{LU}
-T{K},T,T,T,T,T,T,T,T,T,T,T,W,W,W
+T{K},T,T,T,T,T,T,T,T,T,W,T,W,W,W
 R,R,R,R,R,T,T,T,T,T,T,S,W,W,W
 W,W,W,W,R,R,T,T,T,T,R,R,W,W,W
 W,W,W,W,W,R,R,R,R,R,R,W,W,W,W
