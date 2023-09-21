@@ -1,0 +1,15 @@
+{
+    "Name": "Forgotten Crossroads",
+    "DisableCaching": true,
+    "LiveReloading": true,
+    "Style": "Hell",
+    "Tools":
+    {
+        "Traps": 0,
+        "Pickaxes": 1,
+        "Carrots": 0,
+        "Shovels": 0
+    },
+    "IsHell": false,
+    "IsTemple": false
+}
