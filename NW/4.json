@@ -1,13 +1,13 @@
 {
-    "Name": "Bunny Burrow",
+    "Name": "City Block",
     "DisableCaching": true,
     "LiveReloading": true,
     "Tools":
     {
         "Traps": 0,
-        "Pickaxes": 1,
+        "Pickaxes": 0,
         "Carrots": 0,
-        "Shovels": 0
+        "Shovels": 1
     },
     "IsHell": false,
     "IsTemple": false
