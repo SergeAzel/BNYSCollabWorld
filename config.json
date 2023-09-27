@@ -49,10 +49,10 @@
             "Style": "Pink",
             "IsVoid": false,
             "HasSurfaceEntry": false,
-            "UpperBunnyCount": 3,
+            "UpperBunnyCount": 4,
             "TempleBunnyCount": 0,
             "HellBunnyCount": 0,
-            "Depth": 4,
+            "Depth": 5,
             "Links": {
                 "Left": "Super Bun World: North",
                 "Up": "",
