@@ -13,7 +13,7 @@
             "UpperBunnyCount": 0,
             "TempleBunnyCount": 0,
             "HellBunnyCount": 0,
-            "Depth": 1,
+            "Depth": 6,
             "Links": {
                 "Left": "",
                 "Up": "",
@@ -85,7 +85,7 @@
             "UpperBunnyCount": 2,
             "TempleBunnyCount": 0,
             "HellBunnyCount": 0,
-            "Depth": 4,
+            "Depth": 6,
             "Links": {
                 "Left": "Super Bun World: West",
                 "Up": "Super Bun World: North",
