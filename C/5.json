@@ -1,11 +1,12 @@
 {
-    "Name": "Bunny Burrow",
+    "Name": "Lost Crossroads",
     "DisableCaching": true,
     "LiveReloading": true,
+    "Style": "Temple",
     "Tools":
     {
         "Traps": 0,
-        "Pickaxes": 1,
+        "Pickaxes": 0,
         "Carrots": 0,
         "Shovels": 0
     },

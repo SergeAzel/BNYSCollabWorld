@@ -1,7 +1,8 @@
 {
-    "Name": "Bunny Burrow",
+    "Name": "Forgotten Crossroads",
     "DisableCaching": true,
     "LiveReloading": true,
+    "Style": "Hell",
     "Tools":
     {
         "Traps": 0,

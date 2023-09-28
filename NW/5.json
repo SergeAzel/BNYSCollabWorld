@@ -1,11 +1,11 @@
 {
-    "Name": "Bunny Burrow",
+    "Name": "Rock Garden",
     "DisableCaching": true,
     "LiveReloading": true,
     "Tools":
     {
         "Traps": 0,
-        "Pickaxes": 1,
+        "Pickaxes": 2,
         "Carrots": 0,
         "Shovels": 0
     },
