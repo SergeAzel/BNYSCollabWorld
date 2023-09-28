@@ -9,6 +9,6 @@
         "Carrots": 3,
         "Shovels": 0
     },
-    "IsVoid": false,
-    "IsHell": false
+    "IsHell": false,
+    "IsTemple": false
 }
