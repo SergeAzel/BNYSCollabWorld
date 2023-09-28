@@ -1,11 +1,12 @@
 {
-    "Name": "",
+    "Name": "THEEATER",
     "DisableCaching": true,
     "LiveReloading": true,
+    "Style": "Pink",
     "Tools":
     {
         "Traps": 0,
-        "Pickaxes": 0,
+        "Pickaxes": 7,
         "Carrots": 0,
         "Shovels": 0
     },
