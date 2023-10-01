@@ -1,13 +1,13 @@
 {
     "Enabled": true,
+	"ProxyURL": "https://raw.githubusercontent.com/SergeAzel/BNYSCollabWorld/main/",
     "Title": "Super Bun World",
-    "BunEditor_Prefix": "SBW-",
-    "BunEditor_Suffix": "",
+    "Prefix": "SBW",
     "Burrows": [
         {
             "Directory": "NW",
             "Name": "Super Bun World: Northwest",
-            "Indicator": "SBW-NW",
+            "Indicator": "NW",
             "Style": "Pink",
             "IsVoid": false,
             "HasSurfaceEntry": true,
@@ -26,10 +26,10 @@
         {
             "Directory": "N",
             "Name": "Super Bun World: North",
-            "Indicator": "SBW-N",
+            "Indicator": "N",
             "Style": "Pink",
             "IsVoid": false,
-            "HasSurfaceEntry": false,
+            "HasSurfaceEntry": true,
             "UpperBunnyCount": 2,
             "TempleBunnyCount": 0,
             "HellBunnyCount": 0,
@@ -45,10 +45,10 @@
         {
             "Directory": "NE",
             "Name": "Super Bun World: Northeast",
-            "Indicator": "SBW-NE",
+            "Indicator": "NE",
             "Style": "Pink",
             "IsVoid": false,
-            "HasSurfaceEntry": false,
+            "HasSurfaceEntry": true,
             "UpperBunnyCount": 4,
             "TempleBunnyCount": 0,
             "HellBunnyCount": 0,
@@ -64,10 +64,10 @@
         {
             "Directory": "W",
             "Name": "Super Bun World: West",
-            "Indicator": "SBW-W",
+            "Indicator": "W",
             "Style": "Pink",
             "IsVoid": false,
-            "HasSurfaceEntry": false,
+            "HasSurfaceEntry": true,
             "UpperBunnyCount": 2,
             "TempleBunnyCount": 0,
             "HellBunnyCount": 0,
@@ -83,7 +83,7 @@
         {
             "Directory": "C",
             "Name": "Super Bun World: Center",
-            "Indicator": "SBW-C",
+            "Indicator": "C",
             "Style": "Pink",
             "IsVoid": false,
             "HasSurfaceEntry": true,
@@ -102,7 +102,7 @@
         {
             "Directory": "E",
             "Name": "Super Bun World: East",
-            "Indicator": "SBW-E",
+            "Indicator": "E",
             "Style": "Pink",
             "IsVoid": false,
             "HasSurfaceEntry": true,
@@ -121,10 +121,10 @@
         {
             "Directory": "SW",
             "Name": "Super Bun World: Southwest",
-            "Indicator": "SBW-SW",
+            "Indicator": "SW",
             "Style": "Pink",
             "IsVoid": false,
-            "HasSurfaceEntry": false,
+            "HasSurfaceEntry": true,
             "UpperBunnyCount": 3,
             "TempleBunnyCount": 0,
             "HellBunnyCount": 0,
@@ -140,10 +140,10 @@
         {
             "Directory": "S",
             "Name": "Super Bun World: South",
-            "Indicator": "SBW-S",
+            "Indicator": "S",
             "Style": "Pink",
             "IsVoid": false,
-            "HasSurfaceEntry": false,
+            "HasSurfaceEntry": true,
             "UpperBunnyCount": 0,
             "TempleBunnyCount": 0,
             "HellBunnyCount": 0,
@@ -159,10 +159,10 @@
         {
             "Directory": "SE",
             "Name": "Super Bun World: Southeast",
-            "Indicator": "SBW-SE",
+            "Indicator": "SE",
             "Style": "Pink",
             "IsVoid": false,
-            "HasSurfaceEntry": false,
+            "HasSurfaceEntry": true,
             "UpperBunnyCount": 0,
             "TempleBunnyCount": 0,
             "HellBunnyCount": 0,
@@ -174,6 +174,21 @@
                 "Down": ""
             },
             "ElevatorDepths": []
+        }
+    ],
+    "SurfaceEntries": [
+       {
+            "Coordinates": {
+                "Super Bun World: Northwest": [4, 1],
+                "Super Bun World: North": [7, 1],
+                "Super Bun World: Northeast": [10, 1],
+                "Super Bun World: West": [4, 3],
+                "Super Bun World: Center": [7, 3],
+                "Super Bun World: East": [10, 3],
+                "Super Bun World: Southwest": [4, 5],
+                "Super Bun World: South": [7, 5],
+                "Super Bun World: Southeast": [10, 5]
+            }
         }
     ]
 }
